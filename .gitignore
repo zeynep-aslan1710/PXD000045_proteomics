@@ -1,0 +1,5 @@
+data/*.mgf 
+data/*.mgf.gz 
+data/*.pkl 
+data/*.fasta 
+.ipynb_checkpoints/ 
